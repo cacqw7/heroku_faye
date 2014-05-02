@@ -1,3 +1,5 @@
+_This is a clone of [ntenisOT's](https://github.com/ntenisOT) [Faye-Heroku-Cedar](https://github.com/ntenisOT/Faye-Heroku-Cedar)_
+
 Running Faye Server on Heroku Cedar stack
 =========================================
 
